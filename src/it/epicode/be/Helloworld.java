@@ -37,6 +37,8 @@ public class Helloworld {
   }
 
   static String arr[] = { "uno", "due", "tre", "quattro", "cinque" };
+  
+  
 
   public static void inserisciInArray(String arr[], String n) {
     String newArr[] = { arr[0], arr[1], n, arr[2], arr[3], arr[4] };
