@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class Helloworld {
 
   public static void main(String[] args) {
-    System.out.println("This is my first Epicode Java Project!");
     moltiplica(5, 5);
     concatena("tizio", 20);
     inserisciInArray(arr, "sei");
